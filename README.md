@@ -1,8 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woogi-kang)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there, I'm Woogi👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a App Developer!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -11,3 +9,7 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woogi-kang)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woogi-kang)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=woogi-kang)](https://github.com/anuraghazra/github-readme-stats)
