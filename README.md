@@ -1,4 +1,4 @@
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woogi-kang)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woogi-kang)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there, I'm Woogi👋 
 
@@ -10,9 +10,4 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Woogi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=woogi-kang&show_icons=true&hide_border=true" />
-
-</details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woogi-kang)](https://github.com/anuraghazra/github-readme-stats)
