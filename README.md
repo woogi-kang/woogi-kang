@@ -15,5 +15,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woogi-kang)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=woogi-kang)](https://github.com/anuraghazra/github-readme-stats)
-
-https://www.notion.so/Gi-Hyeon-Kwon-159e97d9b868496b8be306f665dc8441
