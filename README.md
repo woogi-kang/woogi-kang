@@ -2,7 +2,7 @@
 
 
 
-## I'm a Frontend and Game Developer!
+## I'm a Flutter Developer!
 
 - 🔭 Love Flutter
 - 🌱 I’m currently learning everything 🤣
