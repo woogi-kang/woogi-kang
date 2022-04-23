@@ -1,17 +1,45 @@
 ### Hi there, I'm Woogi👋 
+=============================
 
-
-
-## I'm a Flutter Developer!
+Flutter Developer
+-----------------
 
 - 🔭 Love Flutter
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games, guitar and drums
+* 🌍  I'm based in Seoul, South Korea
+* 🖥️  See my portfolio at [Notion](http://www.notion.so/devwoogi/31fb3ffc674f4336b1d83a476d193b17)
+* ✉️  You can contact me at [hotsunny.kang@gmail.com](mailto:hotsunny.kang@gmail.com)
+* 🚀  I'm currently working on [Grow](http://play.google.com/store/apps/details?id=kr.co.hunet.mobile.grow)
+* 🧠  I'm learning Flutter, SwiftUI
+* 🤝  I'm open to collaborating on Open Source
+* ⚡  Love Badminton, Pokemon
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woogi-kang&count_private=true&exclude_repo=)](https://github.com/anuraghazra/github-readme-stats)
+### Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woogi-kang)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=woogi-kang)](https://github.com/anuraghazra/github-readme-stats) -->
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/woogi-kang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/taewook-kang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/woogi-kang"><img src="https://github-readme-stats.vercel.app/api?username=woogi-kang&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="woogi-kang's GitHub stats" /></a>
+
+<a href="http://www.github.com/woogi-kang"><img src="https://github-readme-streak-stats.herokuapp.com/?user=woogi-kang&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/woogi-kang"><img src="https://activity-graph.herokuapp.com/graph?username=woogi-kang&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/woogi-kang" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woogi-kang&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/woogi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
