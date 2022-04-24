@@ -3,7 +3,6 @@
 Flutter Developer
 -----------------
 
-- 🔭 Love Flutter
 * 🌍  I'm based in Seoul, South Korea
 * 🖥️  See my portfolio at [Notion](http://www.notion.so/devwoogi/31fb3ffc674f4336b1d83a476d193b17)
 * ✉️  You can contact me at [hotsunny.kang@gmail.com](mailto:hotsunny.kang@gmail.com)
