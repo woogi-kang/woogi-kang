@@ -44,3 +44,5 @@ Flutter Developer
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/woogi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+![Alt](https://repobeats.axiom.co/api/embed/eb78b290cc9f5b57c69d8795cf53c63dbf00697d.svg "Repobeats analytics image")
