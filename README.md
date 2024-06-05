@@ -6,7 +6,7 @@ Flutter Developer
 * 🌍  I'm based in Seoul, South Korea
 * 🖥️  See my portfolio at [Notion](http://www.notion.so/devwoogi/31fb3ffc674f4336b1d83a476d193b17)
 * ✉️  You can contact me at [woogi.dev@gmail.com](mailto:woogi.dev@gmail.com)
-* 🚀  I'm currently working on [Grow](http://play.google.com/store/apps/details?id=kr.co.hunet.mobile.grow)
+* 🚀  I'm currently working on [Eaty](https://play.google.com/store/apps/details?id=com.weorder.eaty&hl=gsw)
 * 🧠  I'm learning Flutter, SwiftUI
 * 🤝  I'm open to collaborating on Open Source
 * ⚡  Love Badminton, Pokemon
