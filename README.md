@@ -1,6 +1,6 @@
 ### Hi there, I'm Woogi👋 
 
-# 💫 About Me:
+## 💫 About Me:
 
 🌍 I'm based in Seoul, South Korea<br>
 🔭 I’m currently working on 오초이스 Ochoice<br>
