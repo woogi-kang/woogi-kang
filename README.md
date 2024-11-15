@@ -1,5 +1,13 @@
 # Hi there, I'm Woogi👋 
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/woogi-kang"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 💫 About Me:
 
 🌍 I'm based in Seoul, South Korea<br>
