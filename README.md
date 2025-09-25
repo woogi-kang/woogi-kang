@@ -5,12 +5,7 @@
 </a>
 
 ## 💫 About Me
-- 🌍 Based in Seoul, South Korea
-- 🔭 Currently working on [Ochoice](https://example.com/ochoice) (Flutter-based project)
-- 👯 Open to collaborations on Flutter projects
-- 🌱 Learning React and Nest.js
-- 💬 Ask me about Flutter, Dart, or mobile development
-- 📫 Reach me at: [woogi@example.com](mailto:woogi@example.com) (이메일 추가 추천)
+I'm a passionate developer based in Seoul, South Korea, driven by the belief that technology can create meaningful connections and improve everyday lives. Currently, I'm building Ochoice—a Flutter-powered platform that empowers users to make smarter decisions effortlessly. With a background in mobile development, I've fallen in love with Flutter's ability to turn ideas into beautiful, cross-platform experiences. I'm always eager to collaborate on innovative projects, and I'm expanding my skills in React and Nest.js to tackle more complex challenges. If you're passionate about creating impactful apps, let's connect—ask me anything about Flutter!
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taewook-kang/)
@@ -21,6 +16,7 @@
 ### Languages & Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,6 +24,7 @@
 
 ### Databases & Cloud
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,6 +45,3 @@
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=woogi-kang&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
----
-Proudly created with [GPRM](https://gprm.itsvg.in)
