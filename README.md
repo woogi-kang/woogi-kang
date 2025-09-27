@@ -5,7 +5,7 @@
 </a>
 
 ## 💫 About Me
-I'm a passionate developer based in Seoul, South Korea, driven by the belief that technology can create meaningful connections and improve everyday lives. Currently, I'm building Ochoice—a Flutter-powered platform that empowers users to make smarter decisions effortlessly. With a background in mobile development, I've fallen in love with Flutter's ability to turn ideas into beautiful, cross-platform experiences. I'm always eager to collaborate on innovative projects, and I'm expanding my skills in React and Nest.js to tackle more complex challenges. If you're passionate about creating impactful apps, let's connect—ask me anything about Flutter!
+I'm a passionate developer based in Seoul, South Korea, driven by the belief that technology can create meaningful connections and improve everyday lives. Currently, I'm building Owl & C-Biz Flutter-powered platform that empowers users to make smarter decisions effortlessly. With a background in mobile development, I've fallen in love with Flutter's ability to turn ideas into beautiful, cross-platform experiences. I'm always eager to collaborate on innovative projects, and I'm expanding my skills in React and Nest.js to tackle more complex challenges. If you're passionate about creating impactful apps, let's connect—ask me anything about Flutter!
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taewook-kang/)
