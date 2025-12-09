@@ -1,7 +1,11 @@
 # Hi there, I'm Woogi 👋
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/woogi-kang" width="500" height="250" alt="Gitanimals Farm" />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=woogi-kang&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/woogi-kang"
+  width="600"
+  height="300"
+/>
 </a>
 
 ## 💫 About Me
