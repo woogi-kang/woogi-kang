@@ -28,7 +28,6 @@ I also work across planning, design, operations, support, and marketing workflow
 
 ## Background
 
-- B.S. track in Game & Mobile Content, Keimyung University.
 - Google Cloud Associate Cloud Engineer, earned in 2020.
 - Flutter Korea 2022 Google I/O Extended speaker on Dart 3.0 changes.
 
